@@ -25,6 +25,7 @@ display: flex;
 
 .logo{
     max-height:10vmin; 
+    min-height: 9vmin;
     margin:.5vmin; 
 }
 
